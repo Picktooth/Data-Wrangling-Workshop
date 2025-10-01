@@ -1,0 +1,5 @@
+# this is a comment line and should be ignored
+id,'text','notes'
+1,'hello, world','has, comma'
+2,'embedded ''quote'' here','ok'
+3,'needs\escape','backslash'
